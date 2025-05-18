@@ -37,9 +37,11 @@ public class StringMethods {
 		System.out.println("toUpperCase : "+str.toUpperCase());  //converts to upper case
 		System.out.println("Strip : "+str.strip());        // removes white space from string
 		System.out.println("Trim : "+str.trim());        //Removes spaces, tabs, and newlines from the beginning and end of a string.
+		
+		System.out.println("Repeat : "+str.repeat(3));   //repeats the string again without space
 
 
-	
+		
 		           
 	}
 
